@@ -6,3 +6,4 @@ build
 public
 package-lock.json
 components.json
+src/components/ui/
